@@ -5,3 +5,6 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/BingBingLLP2022/20230526.git
 git push -u origin main
+-r
+-or
+-run a 
